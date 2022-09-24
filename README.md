@@ -7,6 +7,17 @@ Just press the Fork button ;)
 ## Step 2 : Clone the repo from your profil locally 
 
 Press the Clone Button -> download with GitHub Desktop 
+Press the Clone Button -> download with GitHub Desktop 
+
+Press the Clone Button -> download with GitHub Desktop 
+
+Press the Clone Button -> download with GitHub Desktop 
+
+Press the Clone Button -> download with GitHub Desktop 
+
+Press the Clone Button -> download with GitHub Desktop 
+
+
 
 ## Step 3 : Set up everything before starting to modify the code :
 
