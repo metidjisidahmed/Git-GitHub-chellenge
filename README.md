@@ -1,6 +1,6 @@
 # Git-GitHub-chellenge
 
-## Step 1 : fork the original repo 
+#### Step 1 : fork the original repo 
 
 Just press the Fork button ;) 
 
