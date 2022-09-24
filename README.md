@@ -1,4 +1,4 @@
-# Git-GitHub-chellengee
+# Git-GitHub-chellenge
 
 #### Step 1 : fork the original repo 
 
